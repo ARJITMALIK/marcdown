@@ -1,0 +1,19 @@
+{
+  "name": "marcdown",
+  "version": "1.0.0",
+  "description": "A live markdown editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARJITMALIK/marcdown.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ARJITMALIK/marcdown/issues"
+  },
+  "homepage": "https://github.com/ARJITMALIK/marcdown#readme"
+}
