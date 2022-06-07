@@ -2,7 +2,7 @@
   "name": "marcdown",
   "version": "1.0.0",
   "description": "A live markdown editor",
-  "main": "main.js",
+  "main": "./public/main.js",
   "scripts": {
     "start": "node server/server.js",
     "dev": "nodemon src/server.ts",
