@@ -1,0 +1,9 @@
+{
+  "name": "marcdown",
+  "version": "1.0.0",
+  "description": "A simple markdown editor",
+  "main": "./src/index.tsx",
+  "repository": "git@github.com:ARJITMALIK/marcdown.git",
+  "author": "ARJITMALIK <arjitmalik2001@gmail.com>",
+  "license": "MIT"
+}
